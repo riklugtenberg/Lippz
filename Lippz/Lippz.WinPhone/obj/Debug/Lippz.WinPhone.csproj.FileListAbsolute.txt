@@ -1,0 +1,72 @@
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\App.xbf
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\MainPage.xbf
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.xr.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.exe
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\resources.pri
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\AppxManifest.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.build.appxrecipe
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.csprojResolveAssemblyReference.cache
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.g.i.cs
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.g.cs
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.g.i.cs
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.g.cs
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.xaml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.xaml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.xbf
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.xbf
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.exe
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.csproj.GenerateResource.Cache
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\priconfig.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\layout.resfiles
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\resources.resfiles
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\pri.resfiles
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\qualifiers.txt
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.WinPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\App.xbf
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\MainPage.xbf
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.xr.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.exe
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\resources.pri
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\AppxManifest.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.WinPhone.build.appxrecipe
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\bin\Debug\Lippz.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.g.cs
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.xaml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\App.xbf
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.exe
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\Lippz.WinPhone.csproj.GenerateResource.Cache
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\priconfig.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\layout.resfiles
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\resources.resfiles
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\pri.resfiles
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\qualifiers.txt
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\obj\Debug\ProjectArchitectures.txt

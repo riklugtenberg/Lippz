@@ -1,0 +1,244 @@
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\com.Lippz.apk
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\com.Lippz-Signed.apk
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.csprojResolveAssemblyReference.cache
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.pdb
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\bin\com.Lippz.apk
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\layout\main.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\values\strings.xml
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-mdpi\icon.png
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\R.cs.flag
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\uploadflags.txt
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Bolts.AppLinks.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Bolts.Tasks.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.AudienceNetwork.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+c:\users\riklu\onedrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\ExoPlayer.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.Droid.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable\background_login.jpg
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\bin\Debug\Facebook.dll
+C:\Users\riklu\OneDrive\documenten\visual studio 2015\Projects\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\com.Lippz.apk
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\com.Lippz-Signed.apk
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Bolts.AppLinks.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Bolts.Tasks.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Facebook.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.AudienceNetwork.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.pdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\bin\com.Lippz.apk
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\layout\main.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\values\strings.xml
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\res\drawable\background_login.jpg
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\R.cs.flag
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\uploadflags.txt
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Lippz.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.csprojResolveAssemblyReference.cache
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\ExoPlayer.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.pdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\com.Lippz.apk
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\com.Lippz-Signed.apk
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Bolts.AppLinks.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Bolts.Tasks.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Facebook.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.AudienceNetwork.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.Facebook.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Ads.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.pdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\ExoPlayer.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.csprojResolveAssemblyReference.cache
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.CustomTabs.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.pdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\bin\com.Lippz.apk
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\layout\main.xml
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\values\strings.xml
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\res\drawable\background_login.jpg
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\R.cs.flag
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\uploadflags.txt
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\ExoPlayer.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\obj\Debug\Lippz.Droid.dll.mdb
+C:\Users\riklu\Desktop\LipBattle\Lippz\Lippz.Droid\bin\Debug\Lippz.Droid.dll.mdb

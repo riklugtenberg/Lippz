@@ -1,0 +1,2 @@
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz.WinPhone\Lippz.WinPhone.csproj;neutral
+C:\Users\riklu\Desktop\Lippz\Lippz\Lippz\Lippz.csproj;neutral
