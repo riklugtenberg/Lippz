@@ -3,7 +3,7 @@
   <xs:import schemaLocation="schemas.android.com.apk.res.android.xsd" namespace="http://schemas.android.com/apk/res/android" />
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>10-5-2017 20:38:08</xs:documentation>
+    <xs:documentation>19-5-2017 19:50:10</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -80,37 +80,18 @@
       <xs:element ref="HorizontalScrollView" />
       <xs:element ref="SearchView" />
       <xs:element ref="fragment" />
-      <xs:element ref="com.facebook.share.widget.ShareButton" />
-      <xs:element ref="com.facebook.share.widget.SendButton" />
-      <xs:element ref="com.facebook.share.widget.ShareButtonBase" />
-      <xs:element ref="com.facebook.share.widget.LikeView" />
-      <xs:element ref="com.facebook.share.widget.DeviceShareButton" />
-      <xs:element ref="com.facebook.login.widget.ProfilePictureView" />
-      <xs:element ref="com.facebook.login.widget.LoginButton" />
-      <xs:element ref="com.facebook.login.widget.DeviceLoginButton" />
-      <xs:element ref="com.facebook.FacebookButtonBase" />
-      <xs:element ref="com.facebook.ads.NativeAdScrollView" />
-      <xs:element ref="com.facebook.ads.MediaView" />
-      <xs:element ref="com.facebook.ads.InstreamVideoAdView" />
-      <xs:element ref="com.facebook.ads.AdView" />
-      <xs:element ref="com.facebook.ads.AdChoicesView" />
-      <xs:element ref="com.google.android.exoplayer2.ui.SubtitleView" />
-      <xs:element ref="com.google.android.exoplayer2.ui.SimpleExoPlayerView" />
-      <xs:element ref="com.google.android.exoplayer2.ui.PlaybackControlView" />
-      <xs:element ref="com.google.android.exoplayer2.ui.AspectRatioFrameLayout" />
-      <xs:element ref="android.support.v4.widget.Space" />
-      <xs:element ref="android.support.v4.widget.SlidingPaneLayout" />
-      <xs:element ref="android.support.v4.widget.NestedScrollView" />
-      <xs:element ref="android.support.v4.widget.DrawerLayout" />
-      <xs:element ref="android.support.v4.widget.ContentLoadingProgressBar" />
-      <xs:element ref="android.support.v4.widget.SwipeRefreshLayout" />
-      <xs:element ref="android.support.v4.view.ViewPager" />
-      <xs:element ref="android.support.v4.view.PagerTitleStrip" />
-      <xs:element ref="android.support.v4.view.PagerTabStrip" />
-      <xs:element ref="android.support.v4.app.FragmentTabHost" />
+      <xs:element ref="com.google.android.gms.ads.search.SearchAdView" />
+      <xs:element ref="com.google.android.gms.ads.formats.NativeContentAdView" />
+      <xs:element ref="com.google.android.gms.ads.formats.NativeAppInstallAdView" />
+      <xs:element ref="com.google.android.gms.ads.formats.NativeAdView" />
+      <xs:element ref="com.google.android.gms.ads.doubleclick.PublisherAdView" />
+      <xs:element ref="com.google.android.gms.ads.NativeExpressAdView" />
+      <xs:element ref="com.google.android.gms.ads.BaseAdView" />
+      <xs:element ref="com.google.android.gms.ads.AdView" />
       <xs:element ref="android.support.v7.view.menu.ExpandedMenuView" />
       <xs:element ref="android.support.v7.view.menu.ListMenuItemView" />
       <xs:element ref="android.support.v7.view.menu.ActionMenuItemView" />
+      <xs:element ref="android.support.v7.widget.CardView" />
       <xs:element ref="android.support.v7.widget.ViewStubCompat" />
       <xs:element ref="android.support.v7.widget.SwitchCompat" />
       <xs:element ref="android.support.v7.widget.SearchView" />
@@ -134,16 +115,35 @@
       <xs:element ref="android.support.v7.widget.ActionBarContainer" />
       <xs:element ref="android.support.v7.widget.AbsActionBarView" />
       <xs:element ref="android.support.v7.widget.Toolbar" />
-      <xs:element ref="android.support.v7.widget.CardView" />
       <xs:element ref="android.support.v7.widget.RecyclerView" />
-      <xs:element ref="com.google.android.gms.ads.search.SearchAdView" />
-      <xs:element ref="com.google.android.gms.ads.formats.NativeContentAdView" />
-      <xs:element ref="com.google.android.gms.ads.formats.NativeAppInstallAdView" />
-      <xs:element ref="com.google.android.gms.ads.formats.NativeAdView" />
-      <xs:element ref="com.google.android.gms.ads.doubleclick.PublisherAdView" />
-      <xs:element ref="com.google.android.gms.ads.NativeExpressAdView" />
-      <xs:element ref="com.google.android.gms.ads.BaseAdView" />
-      <xs:element ref="com.google.android.gms.ads.AdView" />
+      <xs:element ref="android.support.v4.widget.Space" />
+      <xs:element ref="android.support.v4.widget.SlidingPaneLayout" />
+      <xs:element ref="android.support.v4.widget.NestedScrollView" />
+      <xs:element ref="android.support.v4.widget.DrawerLayout" />
+      <xs:element ref="android.support.v4.widget.ContentLoadingProgressBar" />
+      <xs:element ref="android.support.v4.widget.SwipeRefreshLayout" />
+      <xs:element ref="android.support.v4.view.ViewPager" />
+      <xs:element ref="android.support.v4.view.PagerTitleStrip" />
+      <xs:element ref="android.support.v4.view.PagerTabStrip" />
+      <xs:element ref="android.support.v4.app.FragmentTabHost" />
+      <xs:element ref="com.google.android.exoplayer2.ui.SubtitleView" />
+      <xs:element ref="com.google.android.exoplayer2.ui.SimpleExoPlayerView" />
+      <xs:element ref="com.google.android.exoplayer2.ui.PlaybackControlView" />
+      <xs:element ref="com.google.android.exoplayer2.ui.AspectRatioFrameLayout" />
+      <xs:element ref="com.facebook.ads.NativeAdScrollView" />
+      <xs:element ref="com.facebook.ads.MediaView" />
+      <xs:element ref="com.facebook.ads.InstreamVideoAdView" />
+      <xs:element ref="com.facebook.ads.AdView" />
+      <xs:element ref="com.facebook.ads.AdChoicesView" />
+      <xs:element ref="com.facebook.share.widget.ShareButton" />
+      <xs:element ref="com.facebook.share.widget.SendButton" />
+      <xs:element ref="com.facebook.share.widget.ShareButtonBase" />
+      <xs:element ref="com.facebook.share.widget.LikeView" />
+      <xs:element ref="com.facebook.share.widget.DeviceShareButton" />
+      <xs:element ref="com.facebook.login.widget.ProfilePictureView" />
+      <xs:element ref="com.facebook.login.widget.LoginButton" />
+      <xs:element ref="com.facebook.login.widget.DeviceLoginButton" />
+      <xs:element ref="com.facebook.FacebookButtonBase" />
     </xs:choice>
   </xs:group>
   <xs:element name="CheckBox" type="CheckBox">
@@ -1437,284 +1437,84 @@
     <xs:attribute ref="android:layout_marginEnd" />
     <xs:attribute ref="android:style" />
   </xs:complexType>
-  <xs:element name="com.facebook.share.widget.ShareButton" type="com.facebook.share.widget.ShareButton">
+  <xs:element name="com.google.android.gms.ads.search.SearchAdView" type="com.google.android.gms.ads.search.SearchAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.ShareButton</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.Search.SearchAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.facebook.share.widget.ShareButton">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.share.widget.SendButton" type="com.facebook.share.widget.SendButton">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.SendButton</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.share.widget.SendButton">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.share.widget.ShareButtonBase" type="com.facebook.share.widget.ShareButtonBase">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.ShareButtonBase</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.share.widget.ShareButtonBase">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.share.widget.LikeView" type="com.facebook.share.widget.LikeView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.LikeView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.share.widget.LikeView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.share.widget.DeviceShareButton" type="com.facebook.share.widget.DeviceShareButton">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.DeviceShareButton</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.share.widget.DeviceShareButton">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.login.widget.ProfilePictureView" type="com.facebook.login.widget.ProfilePictureView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.ProfilePictureView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.login.widget.ProfilePictureView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.login.widget.LoginButton" type="com.facebook.login.widget.LoginButton">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.LoginButton</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.login.widget.LoginButton">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.login.widget.DeviceLoginButton" type="com.facebook.login.widget.DeviceLoginButton">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.DeviceLoginButton</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.login.widget.DeviceLoginButton">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.FacebookButtonBase" type="com.facebook.FacebookButtonBase">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.FacebookButtonBase</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.FacebookButtonBase">
-    <xs:complexContent mixed="false">
-      <xs:extension base="Button" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.ads.NativeAdScrollView" type="com.facebook.ads.NativeAdScrollView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.NativeAdScrollView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.ads.NativeAdScrollView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="LinearLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.ads.MediaView" type="com.facebook.ads.MediaView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.MediaView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.ads.MediaView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="RelativeLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.ads.InstreamVideoAdView" type="com.facebook.ads.InstreamVideoAdView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.InstreamVideoAdView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.ads.InstreamVideoAdView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="RelativeLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.ads.AdView" type="com.facebook.ads.AdView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.AdView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.ads.AdView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="RelativeLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.facebook.ads.AdChoicesView" type="com.facebook.ads.AdChoicesView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.AdChoicesView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.facebook.ads.AdChoicesView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="RelativeLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.google.android.exoplayer2.ui.SubtitleView" type="com.google.android.exoplayer2.ui.SubtitleView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.SubtitleView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.google.android.exoplayer2.ui.SubtitleView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="View" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.google.android.exoplayer2.ui.SimpleExoPlayerView" type="com.google.android.exoplayer2.ui.SimpleExoPlayerView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.SimpleExoPlayerView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.google.android.exoplayer2.ui.SimpleExoPlayerView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.google.android.exoplayer2.ui.PlaybackControlView" type="com.google.android.exoplayer2.ui.PlaybackControlView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.PlaybackControlView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.google.android.exoplayer2.ui.PlaybackControlView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="com.google.android.exoplayer2.ui.AspectRatioFrameLayout" type="com.google.android.exoplayer2.ui.AspectRatioFrameLayout">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.AspectRatioFrameLayout</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="com.google.android.exoplayer2.ui.AspectRatioFrameLayout">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="android.support.v4.widget.Space" type="android.support.v4.widget.Space">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.Space</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v4.widget.Space">
-    <xs:complexContent mixed="false">
-      <xs:extension base="View" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="android.support.v4.widget.SlidingPaneLayout" type="android.support.v4.widget.SlidingPaneLayout">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.SlidingPaneLayout</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v4.widget.SlidingPaneLayout">
+  <xs:complexType name="com.google.android.gms.ads.search.SearchAdView">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v4.widget.NestedScrollView" type="android.support.v4.widget.NestedScrollView">
+  <xs:element name="com.google.android.gms.ads.formats.NativeContentAdView" type="com.google.android.gms.ads.formats.NativeContentAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.NestedScrollView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeContentAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="android.support.v4.widget.NestedScrollView">
+  <xs:complexType name="com.google.android.gms.ads.formats.NativeContentAdView">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v4.widget.DrawerLayout" type="android.support.v4.widget.DrawerLayout">
+  <xs:element name="com.google.android.gms.ads.formats.NativeAppInstallAdView" type="com.google.android.gms.ads.formats.NativeAppInstallAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.DrawerLayout</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeAppInstallAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="android.support.v4.widget.DrawerLayout">
+  <xs:complexType name="com.google.android.gms.ads.formats.NativeAppInstallAdView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.google.android.gms.ads.formats.NativeAdView" type="com.google.android.gms.ads.formats.NativeAdView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeAdView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.google.android.gms.ads.formats.NativeAdView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.google.android.gms.ads.doubleclick.PublisherAdView" type="com.google.android.gms.ads.doubleclick.PublisherAdView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.DoubleClick.PublisherAdView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.google.android.gms.ads.doubleclick.PublisherAdView">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v4.widget.ContentLoadingProgressBar" type="android.support.v4.widget.ContentLoadingProgressBar">
+  <xs:element name="com.google.android.gms.ads.NativeExpressAdView" type="com.google.android.gms.ads.NativeExpressAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.ContentLoadingProgressBar</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.NativeExpressAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="android.support.v4.widget.ContentLoadingProgressBar">
-    <xs:complexContent mixed="false">
-      <xs:extension base="ProgressBar" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="android.support.v4.widget.SwipeRefreshLayout" type="android.support.v4.widget.SwipeRefreshLayout">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.Widget.SwipeRefreshLayout</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v4.widget.SwipeRefreshLayout">
+  <xs:complexType name="com.google.android.gms.ads.NativeExpressAdView">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v4.view.ViewPager" type="android.support.v4.view.ViewPager">
+  <xs:element name="com.google.android.gms.ads.BaseAdView" type="com.google.android.gms.ads.BaseAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.View.ViewPager</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.BaseAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="android.support.v4.view.ViewPager">
+  <xs:complexType name="com.google.android.gms.ads.BaseAdView">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v4.view.PagerTitleStrip" type="android.support.v4.view.PagerTitleStrip">
+  <xs:element name="com.google.android.gms.ads.AdView" type="com.google.android.gms.ads.AdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.View.PagerTitleStrip</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Gms.Ads.AdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="android.support.v4.view.PagerTitleStrip">
+  <xs:complexType name="com.google.android.gms.ads.AdView">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="android.support.v4.view.PagerTabStrip" type="android.support.v4.view.PagerTabStrip">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.View.PagerTabStrip</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v4.view.PagerTabStrip">
-    <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="android.support.v4.app.FragmentTabHost" type="android.support.v4.app.FragmentTabHost">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V4.App.FragmentTabHost</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v4.app.FragmentTabHost">
-    <xs:complexContent mixed="false">
-      <xs:extension base="TabHost" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v7.view.menu.ExpandedMenuView" type="android.support.v7.view.menu.ExpandedMenuView">
@@ -1745,6 +1545,16 @@
   <xs:complexType name="android.support.v7.view.menu.ActionMenuItemView">
     <xs:complexContent mixed="false">
       <xs:extension base="TextView" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v7.widget.CardView" type="android.support.v7.widget.CardView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V7.Widget.CardView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v7.widget.CardView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v7.widget.ViewStubCompat" type="android.support.v7.widget.ViewStubCompat">
@@ -2040,16 +1850,6 @@
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="android.support.v7.widget.CardView" type="android.support.v7.widget.CardView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Support.V7.Widget.CardView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="android.support.v7.widget.CardView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout" />
-    </xs:complexContent>
-  </xs:complexType>
   <xs:element name="android.support.v7.widget.RecyclerView" type="android.support.v7.widget.RecyclerView">
     <xs:annotation>
       <xs:documentation>Runtime Type: Android.Support.V7.Widget.RecyclerView</xs:documentation>
@@ -2060,84 +1860,284 @@
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.search.SearchAdView" type="com.google.android.gms.ads.search.SearchAdView">
+  <xs:element name="android.support.v4.widget.Space" type="android.support.v4.widget.Space">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.Search.SearchAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.Space</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.search.SearchAdView">
+  <xs:complexType name="android.support.v4.widget.Space">
+    <xs:complexContent mixed="false">
+      <xs:extension base="View" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.widget.SlidingPaneLayout" type="android.support.v4.widget.SlidingPaneLayout">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.SlidingPaneLayout</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.widget.SlidingPaneLayout">
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.formats.NativeContentAdView" type="com.google.android.gms.ads.formats.NativeContentAdView">
+  <xs:element name="android.support.v4.widget.NestedScrollView" type="android.support.v4.widget.NestedScrollView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeContentAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.NestedScrollView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.formats.NativeContentAdView">
+  <xs:complexType name="android.support.v4.widget.NestedScrollView">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.formats.NativeAppInstallAdView" type="com.google.android.gms.ads.formats.NativeAppInstallAdView">
+  <xs:element name="android.support.v4.widget.DrawerLayout" type="android.support.v4.widget.DrawerLayout">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeAppInstallAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.DrawerLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.formats.NativeAppInstallAdView">
+  <xs:complexType name="android.support.v4.widget.DrawerLayout">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.widget.ContentLoadingProgressBar" type="android.support.v4.widget.ContentLoadingProgressBar">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.ContentLoadingProgressBar</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.widget.ContentLoadingProgressBar">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ProgressBar" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.widget.SwipeRefreshLayout" type="android.support.v4.widget.SwipeRefreshLayout">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.Widget.SwipeRefreshLayout</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.widget.SwipeRefreshLayout">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.view.ViewPager" type="android.support.v4.view.ViewPager">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.View.ViewPager</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.view.ViewPager">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.view.PagerTitleStrip" type="android.support.v4.view.PagerTitleStrip">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.View.PagerTitleStrip</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.view.PagerTitleStrip">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.view.PagerTabStrip" type="android.support.v4.view.PagerTabStrip">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.View.PagerTabStrip</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.view.PagerTabStrip">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ViewGroup" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="android.support.v4.app.FragmentTabHost" type="android.support.v4.app.FragmentTabHost">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Android.Support.V4.App.FragmentTabHost</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="android.support.v4.app.FragmentTabHost">
+    <xs:complexContent mixed="false">
+      <xs:extension base="TabHost" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.google.android.exoplayer2.ui.SubtitleView" type="com.google.android.exoplayer2.ui.SubtitleView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.SubtitleView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.google.android.exoplayer2.ui.SubtitleView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="View" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.google.android.exoplayer2.ui.SimpleExoPlayerView" type="com.google.android.exoplayer2.ui.SimpleExoPlayerView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.SimpleExoPlayerView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.google.android.exoplayer2.ui.SimpleExoPlayerView">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.formats.NativeAdView" type="com.google.android.gms.ads.formats.NativeAdView">
+  <xs:element name="com.google.android.exoplayer2.ui.PlaybackControlView" type="com.google.android.exoplayer2.ui.PlaybackControlView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.Formats.NativeAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.PlaybackControlView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.formats.NativeAdView">
+  <xs:complexType name="com.google.android.exoplayer2.ui.PlaybackControlView">
     <xs:complexContent mixed="false">
       <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.doubleclick.PublisherAdView" type="com.google.android.gms.ads.doubleclick.PublisherAdView">
+  <xs:element name="com.google.android.exoplayer2.ui.AspectRatioFrameLayout" type="com.google.android.exoplayer2.ui.AspectRatioFrameLayout">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.DoubleClick.PublisherAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Com.Google.Android.Exoplayer2.UI.AspectRatioFrameLayout</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.doubleclick.PublisherAdView">
+  <xs:complexType name="com.google.android.exoplayer2.ui.AspectRatioFrameLayout">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.NativeExpressAdView" type="com.google.android.gms.ads.NativeExpressAdView">
+  <xs:element name="com.facebook.ads.NativeAdScrollView" type="com.facebook.ads.NativeAdScrollView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.NativeExpressAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.NativeAdScrollView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.NativeExpressAdView">
+  <xs:complexType name="com.facebook.ads.NativeAdScrollView">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="LinearLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.BaseAdView" type="com.google.android.gms.ads.BaseAdView">
+  <xs:element name="com.facebook.ads.MediaView" type="com.facebook.ads.MediaView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.BaseAdView</xs:documentation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.MediaView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.BaseAdView">
+  <xs:complexType name="com.facebook.ads.MediaView">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="RelativeLayout" />
     </xs:complexContent>
   </xs:complexType>
-  <xs:element name="com.google.android.gms.ads.AdView" type="com.google.android.gms.ads.AdView">
+  <xs:element name="com.facebook.ads.InstreamVideoAdView" type="com.facebook.ads.InstreamVideoAdView">
     <xs:annotation>
-      <xs:documentation>Runtime Type: Android.Gms.Ads.AdView</xs:documentation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.InstreamVideoAdView</xs:documentation>
     </xs:annotation>
   </xs:element>
-  <xs:complexType name="com.google.android.gms.ads.AdView">
+  <xs:complexType name="com.facebook.ads.InstreamVideoAdView">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup" />
+      <xs:extension base="RelativeLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.ads.AdView" type="com.facebook.ads.AdView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.AdView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.ads.AdView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="RelativeLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.ads.AdChoicesView" type="com.facebook.ads.AdChoicesView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Ads.AdChoicesView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.ads.AdChoicesView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="RelativeLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.share.widget.ShareButton" type="com.facebook.share.widget.ShareButton">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.ShareButton</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.share.widget.ShareButton">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.share.widget.SendButton" type="com.facebook.share.widget.SendButton">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.SendButton</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.share.widget.SendButton">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.share.widget.ShareButtonBase" type="com.facebook.share.widget.ShareButtonBase">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.ShareButtonBase</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.share.widget.ShareButtonBase">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.share.widget.LikeView" type="com.facebook.share.widget.LikeView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.LikeView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.share.widget.LikeView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.share.widget.DeviceShareButton" type="com.facebook.share.widget.DeviceShareButton">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Share.Widget.DeviceShareButton</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.share.widget.DeviceShareButton">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.login.widget.ProfilePictureView" type="com.facebook.login.widget.ProfilePictureView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.ProfilePictureView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.login.widget.ProfilePictureView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="FrameLayout" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.login.widget.LoginButton" type="com.facebook.login.widget.LoginButton">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.LoginButton</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.login.widget.LoginButton">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.login.widget.DeviceLoginButton" type="com.facebook.login.widget.DeviceLoginButton">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.Login.Widget.DeviceLoginButton</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.login.widget.DeviceLoginButton">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="com.facebook.FacebookButtonBase" type="com.facebook.FacebookButtonBase">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: Xamarin.Facebook.FacebookButtonBase</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="com.facebook.FacebookButtonBase">
+    <xs:complexContent mixed="false">
+      <xs:extension base="Button" />
     </xs:complexContent>
   </xs:complexType>
 </xs:schema>

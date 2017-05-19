@@ -18,7 +18,7 @@ using Facebook;
 
 namespace Lippz.Droid
 {
-    [Activity(Label = "Lippz.Droid", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Lippz.Droid",  Icon = "@drawable/icon")]
     public class MainActivity : Activity, IFacebookCallback
     {
         private ICallbackManager mCallBackManager;
@@ -50,11 +50,6 @@ namespace Lippz.Droid
             {
                 LoginManager.Instance.LogInWithReadPermissions(this, new List<string> { "public_profile", "user_friends" });
             };
-
-
-
-
-
         }
 
         public void OnCancel() // wanneer je het wegklikt

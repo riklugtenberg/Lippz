@@ -2,6 +2,10 @@ Lippz.Droid.MainActivity, Lippz.Droid;md5280ae64ee207f183b5197b933573d344.MainAc
 Lippz.Droid.MainActivity, Lippz.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5280ae64ee207f183b5197b933573d344.MainActivity
 Lippz.Droid.MainActivity;md5280ae64ee207f183b5197b933573d344.MainActivity
 lippz.droid.MainActivity;md5280ae64ee207f183b5197b933573d344.MainActivity
+Lippz.Droid.RecordActivity, Lippz.Droid;md5280ae64ee207f183b5197b933573d344.RecordActivity
+Lippz.Droid.RecordActivity, Lippz.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5280ae64ee207f183b5197b933573d344.RecordActivity
+Lippz.Droid.RecordActivity;md5280ae64ee207f183b5197b933573d344.RecordActivity
+lippz.droid.RecordActivity;md5280ae64ee207f183b5197b933573d344.RecordActivity
 Com.Google.Android.Exoplayer2.Trackselection.TrackSelections, ExoPlayer;md53ce4ea341869b8b1661b93bcbf6e6e9a.TrackSelections
 Com.Google.Android.Exoplayer2.Trackselection.TrackSelections, ExoPlayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ce4ea341869b8b1661b93bcbf6e6e9a.TrackSelections
 Com.Google.Android.Exoplayer2.Trackselection.TrackSelections;md53ce4ea341869b8b1661b93bcbf6e6e9a.TrackSelections
